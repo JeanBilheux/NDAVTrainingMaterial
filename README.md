@@ -48,8 +48,8 @@ Goal is to simplify user's life and avoir errors
 ```
   pip install pyqtgraph
   > python
-  import pyqtgraph.examples.
-  pyqtgraph.examples.run()
+  >>> import pyqtgraph.examples.
+  >>> pyqtgraph.examples.run()
   ```
 
 - github that show the ibeatles_light to get up and running in no time (https://github.com/neutrons/GUI_Tools/tree/master/pyqtgraph)

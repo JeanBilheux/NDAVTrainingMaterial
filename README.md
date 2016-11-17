@@ -24,8 +24,6 @@ Goal is to simplify user's life and avoir errors
 
 - video made to show the users how to use the notebooks (https://www.dropbox.com/s/7065w17czkzff5e/JupyterNotebookTutorial.mov?dl=0)
 
-https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tutorial_video.png
-
 - review of various tools develooped for users:
   1. bragg edge extraction for Gian (https://github.com/ornlneutronimaging/BraggEdge)
   2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments)

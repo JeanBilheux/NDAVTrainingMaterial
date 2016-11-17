@@ -52,7 +52,7 @@ Goal is to simplify user's life and avoir errors
   >>> pyqtgraph.examples.run()
   ```
  ![alt tag] (https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/pyqtgraph_1.png)
- ![alt tag] (https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/pyqtgraph_2.png)
+ ![alt tag] (https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/pyqtgraph.gif)
 
 - github that show the ibeatles_light to get up and running in no time (https://github.com/neutrons/GUI_Tools/tree/master/pyqtgraph)
                     

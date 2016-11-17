@@ -26,8 +26,9 @@ Goal is to simplify user's life and avoir errors
 
 ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tutorial_video.png)
 
-- review of various tools develooped for users:
-  1. bragg edge extraction for Gian (https://github.com/ornlneutronimaging/BraggEdge)
+- review of various tools developed for users:
+  1. bragg edge extraction for Gian
+  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/col_extraction.png)
  
   2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tof_experiments.png)

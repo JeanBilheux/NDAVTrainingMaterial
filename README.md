@@ -23,19 +23,18 @@ Goal is to simplify user's life and avoir errors
 ## jupyter for training
 
 - video made to show the users how to use the notebooks (https://www.dropbox.com/s/7065w17czkzff5e/JupyterNotebookTutorial.mov?dl=0)
-
 ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tutorial_video.png)
 
 - review of various tools developed for users:
-  1. bragg edge extraction for Gian
+  1. bragg edge extraction for Bragg Edge LDRD (requested by post doc Gian)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/col_extraction.png)
  
-  2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments)
+  2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments) (requested by imaging team)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tof_experiments.png)
   
-  3. adding files together in parallel (https://github.com/ornlneutronimaging/users_ipython_notebook/blob/master/images_manipulation/combine_images_from_n_folders_parallelization.ipynb)
+  3. adding files together in parallel (Requested by several phD students) (https://github.com/ornlneutronimaging/users_ipython_notebook/blob/master/images_manipulation/combine_images_from_n_folders_parallelization.ipynb)
  
-  4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging)
+  4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging) (requested by PhD student)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
   
   

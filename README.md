@@ -17,7 +17,7 @@
 
 Goal is to simplify user's life and avoir errors 
 
-- Here we look at 2 notebooks that do the same thing but one takes advantages of the widgets, the other don't (https://github.com/JeanBilheux/NotebooksWithWithoutWidgets.git))
+- Here we look at 2 notebooks that do the same thing but one takes advantages of the widgets, the other don't (https://github.com/JeanBilheux/NotebooksWithWithoutWidgets.git)
 - List of widgets and how to use them (https://github.com/JeanBilheux/python_tutorial/tree/master/jupyter/widgets)
 
 ## jupyter for training

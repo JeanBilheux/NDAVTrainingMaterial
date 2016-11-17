@@ -35,10 +35,12 @@ Goal is to simplify user's life and avoir errors
 - show iBeatles in action (https://github.com/ornlneutronimaging/iBeatles)
 - to run pyqtgraph examples
 
- pip install pyqtgraph
- > python
- import pyqtgraph.examples.
- pyqtgraph.examples.run()
+```
+  pip install pyqtgraph
+  > python
+  import pyqtgraph.examples.
+  pyqtgraph.examples.run()
+  ```
 
 - github that show the ibeatles_light to get up and running in no time (https://github.com/neutrons/GUI_Tools/tree/master/pyqtgraph)
                     

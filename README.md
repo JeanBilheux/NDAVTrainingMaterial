@@ -28,13 +28,21 @@ Goal is to simplify user's life and avoir errors
 
 - review of various tools develooped for users:
   1. bragg edge extraction for Gian (https://github.com/ornlneutronimaging/BraggEdge)
+ 
   2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments)
+  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tof_experiments.png)
+  
   3. adding files together in parallel (https://github.com/ornlneutronimaging/users_ipython_notebook/blob/master/images_manipulation/combine_images_from_n_folders_parallelization.ipynb)
+ 
   4. resonance imaging (https://github.com/JeanBilheux/ResonanceImaging)
+  ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/resonance.png)
+  
   
 # Pyqtgraph
 
 - show iBeatles in action (https://github.com/ornlneutronimaging/iBeatles)
+
+
 - to run pyqtgraph examples
 
 ```

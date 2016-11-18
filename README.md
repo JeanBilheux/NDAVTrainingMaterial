@@ -26,7 +26,7 @@ Goal is to simplify user's life and avoir errors
 ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/tutorial_video.png)
 
 - review of various tools developed for users:
-  1. bragg edge extraction for Bragg Edge LDRD (requested by post doc Gian)
+  1. bragg edge extraction for Bragg Edge LDRD (requested by post doc Gian) (https://github.com/ornlneutronimaging/BraggEdgeNotebooks/tree/master/counts_vs_time_bins_region)
   ![alt tag](https://github.com/JeanBilheux/NDAVTrainingMaterial/blob/master/images/col_extraction.png)
  
   2. notebook for live experiment (https://github.com/ornlneutronimaging/TOFexperiments) (requested by imaging team)
